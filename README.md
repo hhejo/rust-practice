@@ -14,3 +14,9 @@ fn main() {
     println!("Hello, world!");
 }
 ```
+
+## 2. Input
+
+```rust
+
+```
